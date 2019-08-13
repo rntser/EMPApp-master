@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "525694757490",
+    "firebase_url": "https://emp-santarem-71072.firebaseio.com",
+    "project_id": "emp-santarem-71072",
+    "storage_bucket": "emp-santarem-71072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525694757490:android:16011a8b4a6797ed",
+        "android_client_info": {
+          "package_name": "emp.rnt404.empsantarem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525694757490-dfuhedgckqppjppu50k22qj88umrrse0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "emp.rnt404.empsantarem",
+            "certificate_hash": "df80f0bb007e015d317406c1f74e0adf3e510d1a"
+          }
+        },
+        {
+          "client_id": "525694757490-r6m6cuvva511uuar6bu2rkb3gfmfrvtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDwmXC7NqxivxqiJIMJv4WOAZMr48GG14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525694757490-r6m6cuvva511uuar6bu2rkb3gfmfrvtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
